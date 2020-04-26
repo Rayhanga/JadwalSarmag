@@ -1,6 +1,6 @@
 # JadwalSarmag
 
-JadwalSarmag is a Python module to parse _specific_ pdf to gives out some data (_i.e. Jadwal Harian, Jadwal Libur, etc._).
+JadwalSarmag is a Python module to parse specific document to gives out some crucial college data.
 
 ## Installation
 
@@ -31,3 +31,11 @@ Always use `virtualenv` when interacting with these modules
 ```bash
 python parser.py
 ```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+[GNU GPLv3.0](https://github.com/Rayhanga/JadwalSarmag/blob/master/LICENSE)
